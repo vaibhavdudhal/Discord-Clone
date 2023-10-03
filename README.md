@@ -10,9 +10,13 @@ Welcome to our Discord-inspired website, where seamless communication meets eleg
 
 
 
+
+
 ## Tech Stack
 
 💻HTML & Tailwind CSS
+
+
 
 
 
@@ -27,6 +31,8 @@ Welcome to our Discord-inspired website, where seamless communication meets eleg
 🔸Footer
 
 ![App Scrrenshot](https://github.com/vaibhavdudhal/Discord-Clone/blob/main/images/Screenshot%202023-10-03%20183133.png?raw=true)
+
+
 
 
 
